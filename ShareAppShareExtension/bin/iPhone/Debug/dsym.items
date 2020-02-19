@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="ShareAppShareExtension.appex">
+      <CompiledArchitectures>ARM64</CompiledArchitectures>
+      <NativeExecutable>ShareAppShareExtension</NativeExecutable>
+      <NoSymbolStrip>False</NoSymbolStrip>
+      <SymbolsList>\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\obj\iPhone\Debug\mtouch-symbols.list</SymbolsList>
+      <NoDSymUtil>false</NoDSymUtil>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>

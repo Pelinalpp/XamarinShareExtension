@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Debug\ibtool\MainInterface.storyboardc\Info.plist">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/Info.plist</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Debug/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Debug\ibtool\MainInterface.storyboardc\UIViewController-j1y-V4-xli.nib\objects-13.0+.nib">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/UIViewController-j1y-V4-xli.nib/objects-13.0+.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Debug/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Debug\ibtool\MainInterface.storyboardc\UIViewController-j1y-V4-xli.nib\runtime.nib">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/UIViewController-j1y-V4-xli.nib/runtime.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Debug/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Debug\ibtool\MainInterface.storyboardc\j1y-V4-xli-view-wbc-yd-nQP.nib\objects-13.0+.nib">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/j1y-V4-xli-view-wbc-yd-nQP.nib/objects-13.0+.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Debug/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+    <_BundleResourceWithLogicalName Include="obj\iPhone\Debug\ibtool\MainInterface.storyboardc\j1y-V4-xli-view-wbc-yd-nQP.nib\runtime.nib">
+      <InterfaceDefinition>MainInterface.storyboard</InterfaceDefinition>
+      <LogicalName>MainInterface.storyboardc/j1y-V4-xli-view-wbc-yd-nQP.nib/runtime.nib</LogicalName>
+      <Optimize>false</Optimize>
+      <OriginalItemSpec>obj/iPhone/Debug/ibtool/MainInterface.storyboardc</OriginalItemSpec>
+    </_BundleResourceWithLogicalName>
+  </ItemGroup>
+</Project>

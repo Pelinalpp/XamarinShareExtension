@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="ShareApp.MainPage">
+
+    <StackLayout>
+        <Label Text="File List:" FontAttributes="Bold" FontSize="20" HorizontalOptions="CenterAndExpand" Margin="0,30,0,0" />
+        <!-- Place new controls here -->
+        <ListView ItemsSource="{Binding ItemList}" Margin="10" HorizontalOptions="CenterAndExpand" VerticalOptions="FillAndExpand" CachingStrategy="RecycleElement" HasUnevenRows="True">
+            <ListView.ItemTemplate>
+                <DataTemplate>
+                    <ViewCell>
+                        <ViewCell.View>
+                            <StackLayout Orientation="Vertical" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand">
+                                <Label Text="File:" FontAttributes="Bold" />
+                                <Label Text="{Binding .}" />
+                            </StackLayout>
+                        </ViewCell.View>
+                    </ViewCell>
+                </DataTemplate>
+            </ListView.ItemTemplate>
+        </ListView>
+    </StackLayout>
+
+</ContentPage>

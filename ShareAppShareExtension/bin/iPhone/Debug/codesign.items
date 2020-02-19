@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionCodesignProperties Include="ShareAppShareExtension.appex">
+      <CodesignAppExtensionInputs>\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\MonoTouchDebugConfiguration.txt;\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\archived-expanded-entitlements.xcent;\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\embedded.mobileprovision;\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\Info.plist;\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\Settings.bundle\Root.plist;\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\MainInterface.storyboardc\Info.plist;\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\MainInterface.storyboardc\UIViewController-j1y-V4-xli.nib\objects-13.0+.nib;\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\MainInterface.storyboardc\UIViewController-j1y-V4-xli.nib\runtime.nib;\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\MainInterface.storyboardc\j1y-V4-xli-view-wbc-yd-nQP.nib\objects-13.0+.nib;\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\bin\iPhone\Debug\ShareAppShareExtension.appex\MainInterface.storyboardc\j1y-V4-xli-view-wbc-yd-nQP.nib\runtime.nib;</CodesignAppExtensionInputs>
+      <NativeExecutable>ShareAppShareExtension</NativeExecutable>
+      <CodesignAllocate>\Applications\Xcode.app\Contents\Developer\Toolchains\XcodeDefault.xctoolchain\usr\bin\codesign_allocate</CodesignAllocate>
+      <DisableTimestamp>True</DisableTimestamp>
+      <Entitlements>\Users\deytek\Library\Caches\Xamarin\mtbs\builds\ShareAppShareExtension\beb37d656c4fa7ec012bb1c715e16dc1\obj\iPhone\Debug\Entitlements.xcent</Entitlements>
+      <ResourceRules></ResourceRules>
+      <Keychain></Keychain>
+      <LibrarySigningKey>0096E446922C99F5A539BA915F619220EA8492C0</LibrarySigningKey>
+      <SigningKey>0096E446922C99F5A539BA915F619220EA8492C0</SigningKey>
+      <ExtraArgs></ExtraArgs>
+    </_AppExtensionCodesignProperties>
+  </ItemGroup>
+</Project>

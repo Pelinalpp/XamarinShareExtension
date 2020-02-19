@@ -1,0 +1,13 @@
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\bin\Debug\netstandard2.0\ShareApp.deps.json
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\bin\Debug\netstandard2.0\ShareApp.dll
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\bin\Debug\netstandard2.0\ref\ShareApp.dll
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\bin\Debug\netstandard2.0\ShareApp.pdb
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\obj\Debug\netstandard2.0\ShareApp.csprojAssemblyReference.cache
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\obj\Debug\netstandard2.0\ShareApp.AssemblyInfoInputs.cache
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\obj\Debug\netstandard2.0\ShareApp.AssemblyInfo.cs
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\obj\Debug\netstandard2.0\ShareApp.dll
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\obj\Debug\netstandard2.0\ref\ShareApp.dll
+C:\Users\Deytek\Desktop\ShareApp\ShareApp\ShareApp\obj\Debug\netstandard2.0\ShareApp.pdb
